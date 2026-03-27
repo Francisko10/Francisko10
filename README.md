@@ -1,12 +1,8 @@
-<h1 align="center">👋 Hola! Mi nombre es Francisco</h1>
+<h1 align="center">Hola! Mi nombre es Francisco</h1>
 
 <p align="center">
   💻 Estudiante de Ingeniería en Computación <br>
   🚀 Apasionado por la programación y la tecnología
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" width="400"/>
 </p>
 
 ---
