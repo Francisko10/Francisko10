@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Francisco</h1>
 
-<!--
-**Francisko10/Francisko10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Estudiante de Ingeniería en Computación <br>
+  🚀 Apasionado por la programación y la tecnología
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.gif" width="400"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Contacto
+
+<p align="center">
+  <a href="https://instagram.com/tuusuario">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Tecnologías
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Francisko10&show_icons=true&theme=tokyonight"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Francisko10&theme=tokyonight"/>
+</p>
+
+---
+
+## ✨ Sobre mí
+
+<p align="center">
+🌱 Aprendiendo desarrollo y programación <br>
+🔥 Interesado en proyectos con Firebase <br>
+🎯 Enfocado en mejorar cada día
+</p>
+
+---
+
+## 🧠 Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Francisko10&theme=tokyo-night"/>
+</p>
+
+---
+
+<p align="center">
+⭐ Gracias por visitar mi perfil
+</p>
