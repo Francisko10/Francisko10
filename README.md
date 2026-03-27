@@ -1,23 +1,23 @@
 <h1 align="center">Hola! Mi nombre es Francisco</h1>
 
 <p align="center">
-  💻 Estudiante de Ingeniería en Computación <br>
-  🚀 Apasionado por la programación y la tecnología
+  💻 Estudiante de Ingeniería Civil Informatica <br>
+  🚀 Me gusta la tecnologia 
 </p>
 
 ---
 
-## 🌐 Contacto
+## Contacto
 
 <p align="center">
-  <a href="https://instagram.com/tuusuario">
+  <a href="https://instagram.com/fr21ov">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Tecnologías
+## Tecnologías usadas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -34,14 +34,6 @@
 </p>
 
 ---
-
-## ✨ Sobre mí
-
-<p align="center">
-🌱 Aprendiendo desarrollo y programación <br>
-🔥 Interesado en proyectos con Firebase <br>
-🎯 Enfocado en mejorar cada día
-</p>
 
 ---
 
