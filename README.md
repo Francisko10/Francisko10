@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Francisco</h1>
+<h1 align="center">👋 Hola! Mi nombre es Francisco</h1>
 
 <p align="center">
   💻 Estudiante de Ingeniería en Computación <br>
