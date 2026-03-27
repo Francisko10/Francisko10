@@ -1,11 +1,8 @@
 <h1 align="center">Hola! Mi nombre es Francisco</h1>
 
-**Estudiante de Ingeniería Civil Informatica en Universidad Catolica del Maule
-<p align="center">
-  💻 Estudiante de Ingeniería Civil Informatica <br>
-  🚀 Me gusta la tecnologia 
-</p>
-
+**Estudiante de Ingeniería Civil Informatica en Universidad Catolica del Maule**
+--
+Me interesa el desarrollo de software y analisis de datos.
 ---
 
 ## Contacto
